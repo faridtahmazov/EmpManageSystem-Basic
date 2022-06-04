@@ -8,7 +8,7 @@ Tools and technologies used:
 * Spring Data Jpa;
 * Spring Boot DevTools; 
 * Thymeleaf;
-* MySQL - mysql-connector-java-8.0.22.jar;
+* MySQL Driver;
 
 Development Steps: 
 * Create an Intellij Idea Dynamic Web Project; 
